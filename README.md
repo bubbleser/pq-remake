@@ -1,5 +1,5 @@
 # pq-remake
-Paimon quiz remake
+Paimon quiz remake  https://bubbleser.github.io/pq-remake/
 
 Art by https://www.reddit.com/user/ChmknNuggets/
 
