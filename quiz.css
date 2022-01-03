@@ -1,6 +1,6 @@
 body {
     font-family: 'Martel', serif;
-    color:auto;
+    color:#424242;
     margin: 0;
     padding: 20px;
 }
@@ -15,7 +15,7 @@ body {
 
 #paimon {
   max-width: 100%;
-  opacity: 50%;
+  opacity: 100%;
   z-index: -100;  
   position: right;
 }
